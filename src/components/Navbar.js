@@ -23,7 +23,7 @@ export default function Navbar() {
               <a href="https://github.com/MattRyanFernandez" className="mr-5 hover:text-white" target="_blank">
                 Github
               </a>
-              <a href="#www.linkedin.com/in/matt-fernandez-801b99205" className="mr-5 hover:text-white" target="_blank">
+              <a href="www.linkedin.com/in/matt-fernandez-801b99205" className="mr-5 hover:text-white" target="_blank">
                 LinkedIn
               </a>
             </nav>
