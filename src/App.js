@@ -21,7 +21,7 @@ export default function App() {
       <Skills />
       <Projects />
       
-      
+      <Testimonials/>
       <Contact />
     </main>
   );

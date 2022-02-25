@@ -19,28 +19,16 @@ export const projects = [
 ];
 
 export const testimonials = [
+  
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Cici Farfan",
-    company: "Costco Wholesale, Merch Manager",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Kristina Hill",
-    company: "Costco Wholesale, General Manager",
+      "I first met Matthew when he started working for Costco Wholesale in 2019. As Matthew's General Manager I quickly was impressed by Matthew's work ethic, ability to solve problems, his strong sense of urgency & his adaptability. Even while attending school his strong work ethic never waivered. Matthe has been a tremendous asset to our company.",
+    image: "",
+    name: "~ Kristina Hill",
+    company: "General Manager, Costco Wholesale",
   },
 
-  {
-    quote:
-      "Matthew is the most talented, hardworking, atrractive, stud of a man I've ever known. In fact it is a blessing to even live in the same proximity as him.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jose Reynozo",
-    company: "Costco Wholesale, Assistant General Manager",
-  },
+  
 ];
 
 export const skills = [
