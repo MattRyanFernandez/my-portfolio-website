@@ -22,7 +22,7 @@ export const testimonials = [
   
   {
     quote:
-      "I first met Matthew when he started working for Costco Wholesale in 2019. As Matthew's General Manager I quickly was impressed by Matthew's work ethic, ability to solve problems, his strong sense of urgency & his adaptability. Even while attending school his strong work ethic never waivered. Matthe has been a tremendous asset to our company.",
+      "I first met Matthew when he started working for Costco Wholesale in 2019. As Matthew's General Manager I quickly was impressed by Matthew's work ethic, ability to solve problems, his strong sense of urgency & his adaptability. Even while attending school his strong work ethic never waivered. Matthew has been a tremendous asset to our company.",
     image: "",
     name: "~ Kristina Hill",
     company: "General Manager, Costco Wholesale",
